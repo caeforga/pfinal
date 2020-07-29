@@ -37,7 +37,6 @@
         <form action="signup.php" method="post">
             <input name="email" type="text" placeholder="Enter your email">
             <input name="password" type="password" placeholder="Enter your Password">
-            <input name="confirm_password" type="password" placeholder="Confirm your Password">
             <input type="submit" value="Submit">
         </form>
         <spam>You have an account? <a href="index.php">Login</a></spam>

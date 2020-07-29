@@ -43,13 +43,14 @@ input[type="submit"]:hover {
 }
 
 /* #game {
-    box-shadow: 1px 1px 15px rgb(12, 213, 228);
-    background: rgb(8, 226, 92);
-    border-radius: 10px;
-} */
+    box-shadow: 1px 1px 15px rgb(62, 19, 218);
+    /*background: rgb(8, 226, 92);*/
+    background-color: blueviolet;
+    border-radius: 20px;
+} 
 
-/* #dashboard {
+#dashboard {
     font-size: 2em;
     margin-bottom: 1.5rem;
     text-align: center;
-} */
+}  */
